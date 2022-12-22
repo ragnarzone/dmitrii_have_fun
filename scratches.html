@@ -1,23 +1,23 @@
 <!DOCTYPE html>
 <html>
-<head>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
-<script>
-$(document).ready(function(){
-  $("button").click(function(){
-    $("p").hide();
-  });
-});
-</script>
-</head>
 <body>
 
-<h2>This is a heading</h2>
+<div id="demo">
+<h2>The XMLHttpRequest Object</h2>
+<button type="button" onclick="loadDoc()">Change Content</button>
+</div>
 
-<p>This is a paragraph.</p>
-<p>This is another paragraph.</p>
-
-<button>Click me to hide paragraphs</button>
+<script>
+function loadDoc() {
+  const xhttp = new XMLHttpRequest();
+  xhttp.onload = function() {
+    document.getElementById("demo").innerHTML =
+    this.responseText;
+  }
+  xhttp.open("GET", "ajax_info.txt");
+  xhttp.send();
+}
+</script>
 
 </body>
 </html>
