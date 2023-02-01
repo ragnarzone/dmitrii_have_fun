@@ -1,0 +1,15 @@
+/var/www/html/dmitrii_have_fun/sample2/obj/Debug/net6.0/sample2.csproj.AssemblyReference.cache
+/var/www/html/dmitrii_have_fun/sample2/obj/Debug/net6.0/sample2.GeneratedMSBuildEditorConfig.editorconfig
+/var/www/html/dmitrii_have_fun/sample2/obj/Debug/net6.0/sample2.AssemblyInfoInputs.cache
+/var/www/html/dmitrii_have_fun/sample2/obj/Debug/net6.0/sample2.AssemblyInfo.cs
+/var/www/html/dmitrii_have_fun/sample2/obj/Debug/net6.0/sample2.csproj.CoreCompileInputs.cache
+/var/www/html/dmitrii_have_fun/sample2/bin/Debug/net6.0/sample2
+/var/www/html/dmitrii_have_fun/sample2/bin/Debug/net6.0/sample2.deps.json
+/var/www/html/dmitrii_have_fun/sample2/bin/Debug/net6.0/sample2.runtimeconfig.json
+/var/www/html/dmitrii_have_fun/sample2/bin/Debug/net6.0/sample2.dll
+/var/www/html/dmitrii_have_fun/sample2/bin/Debug/net6.0/sample2.pdb
+/var/www/html/dmitrii_have_fun/sample2/obj/Debug/net6.0/sample2.dll
+/var/www/html/dmitrii_have_fun/sample2/obj/Debug/net6.0/refint/sample2.dll
+/var/www/html/dmitrii_have_fun/sample2/obj/Debug/net6.0/sample2.pdb
+/var/www/html/dmitrii_have_fun/sample2/obj/Debug/net6.0/sample2.genruntimeconfig.cache
+/var/www/html/dmitrii_have_fun/sample2/obj/Debug/net6.0/ref/sample2.dll
