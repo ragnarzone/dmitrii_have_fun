@@ -1,0 +1,15 @@
+/home/pi/sample1/bin/Debug/net6.0/sample1
+/home/pi/sample1/bin/Debug/net6.0/sample1.deps.json
+/home/pi/sample1/bin/Debug/net6.0/sample1.runtimeconfig.json
+/home/pi/sample1/bin/Debug/net6.0/sample1.dll
+/home/pi/sample1/bin/Debug/net6.0/sample1.pdb
+/home/pi/sample1/obj/Debug/net6.0/sample1.csproj.AssemblyReference.cache
+/home/pi/sample1/obj/Debug/net6.0/sample1.GeneratedMSBuildEditorConfig.editorconfig
+/home/pi/sample1/obj/Debug/net6.0/sample1.AssemblyInfoInputs.cache
+/home/pi/sample1/obj/Debug/net6.0/sample1.AssemblyInfo.cs
+/home/pi/sample1/obj/Debug/net6.0/sample1.csproj.CoreCompileInputs.cache
+/home/pi/sample1/obj/Debug/net6.0/sample1.dll
+/home/pi/sample1/obj/Debug/net6.0/refint/sample1.dll
+/home/pi/sample1/obj/Debug/net6.0/sample1.pdb
+/home/pi/sample1/obj/Debug/net6.0/sample1.genruntimeconfig.cache
+/home/pi/sample1/obj/Debug/net6.0/ref/sample1.dll
